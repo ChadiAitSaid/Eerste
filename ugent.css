@@ -1,0 +1,75 @@
+body{
+    font-family: arial;
+}
+strong {
+    font-size: 110%;
+}
+article, dd {
+    font-size: small;
+}
+body { 
+    background-color: rgb(255, 255, 255); 
+    color: navy;
+    }
+
+ img {
+    display: block;
+    margin: 2mm;
+    width: 400px;   
+}
+figcaption{
+    font-size: 50%
+}
+
+article > footer{
+     font-style: italic;
+}
+
+article img{
+    border:5px double;
+    margin:40px;
+    padding: 10px;
+    border-color: rgb(30,100,200);
+    float:left;
+}
+
+section article{ 
+    
+    border: thin silver solid;
+    margin: 40px;
+    padding: 40px;
+}
+
+.haard{
+    color: rgb(30,100,200);
+    font-weight: bold;
+}
+
+body > div > div > div > footer{
+    background-color:rgb(30,100,200);
+    padding:40px   
+}
+
+
+time{
+    float: right;
+}
+
+#titel:hover {
+    color:rgb(255,210,0);
+ }
+
+ol{
+    list-style: upper-alpha;
+}
+
+fieldset{
+    border: thin silver solid;
+    margin: 40px;
+    padding: 40px;
+}
+
+
+
+
+
